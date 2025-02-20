@@ -1,1 +1,1 @@
-Gesture Detector
+Тестирование возможностей Gesture Detector
